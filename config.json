@@ -5,8 +5,7 @@
       "server_port": 443,
       "password": "v9Zh2U1kRspeQzRsAlUQf3",
       "method": "chacha20-ietf-poly1305",
-      "prefix": "\u0016\u0003\u0001\u0000\u00a8\u0001\u0001",
-      "name": "PINGO VPN"
+      "prefix": "\u0016\u0003\u0001\u0000\u00a8\u0001\u0001"
     }
   ]
 }
