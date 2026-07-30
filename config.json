@@ -1,1 +1,12 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMYlFCandZVXVMVE5KMHZ3N3I5WEVq@mintxit.online:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#MINTXIT Secure
+{
+  "servers": [
+    {
+      "server": "pingovpn.duckdns.org",
+      "server_port": 443,
+      "password": "v9Zh2U1kRspeQzRsAlUQf3",
+      "method": "chacha20-ietf-poly1305",
+      "prefix": "\u0016\u0003\u0001\u0000\u00a8\u0001\u0001",
+      "name": "PINGO VPN"
+    }
+  ]
+}
