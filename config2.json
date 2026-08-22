@@ -1,7 +1,0 @@
-{
-  "server": "pingovpn.duckdns.org",
-  "server_port": 995,
-  "password": "Pingo995Secure2026",
-  "method": "aes-256-gcm",
-  "prefix": "\u0016\u0003\u0001\u0000\u00a8\u0001\u0001"
-}
